@@ -7,7 +7,7 @@ It is a 2D space shooter you can play in the browser, but it is designed with mo
 
 - https://cosmic-drifter.vercel.app/
 
-## About The Project
+## About
 
 This project was built as a learning project for beginner game development.
 The goal is to keep things fun and clear rather than overly complex.
