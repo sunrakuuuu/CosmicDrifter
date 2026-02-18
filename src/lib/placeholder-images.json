@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "player-ship",
+      "description": "The player's spaceship.",
+      "imageUrl": "/spaceship.png",
+      "imageHint": "spaceship"
+    }
+  ]
+}
